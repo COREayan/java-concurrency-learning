@@ -41,8 +41,5 @@ public class Main {
         });
 
         thread2.start();
-
-        // Thread Inheritance
-
     }
 }
