@@ -46,7 +46,7 @@ public class Main {
 
     private static class Vault {
         private int password;
-        
+
         public Vault(int password) {
             this.password = password;
         }
