@@ -8,6 +8,7 @@
  * Resource Sharing & Introduction to Critical Sections
  * https://www.udemy.com/java-multithreading-concurrency-performance-optimization
  */
+
 public class Main {
     public static void main(String[] args) throws InterruptedException {
         InventoryCounter inventoryCounter = new InventoryCounter();
