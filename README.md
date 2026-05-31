@@ -17,3 +17,6 @@ Here are some excellent articles to deepen your understanding of the **Concurren
 4. [Java Concurrency and Multithreading - Jenkov.com](https://jenkov.com/tutorials/java-concurrency/index.html) 
 5. [Java Concurrency Series - Baeldung](https://www.baeldung.com/java-concurrency)
 6. [Java Concurrency - BairesDev](https://www.bairesdev.com/blog/java-concurrency/)
+
+## Leetcode Problems 
+<img width="1100" height="451" alt="image" src="https://github.com/user-attachments/assets/8349f52d-20f9-4bee-b207-845d35ba6a3e" />
